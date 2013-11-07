@@ -1,5 +1,8 @@
+This branch has been forked out of 
 CMU ARK Twitter Part-of-Speech Tagger v0.3
 http://www.ark.cs.cmu.edu/TweetNLP/
+
+Removed Berkeley POS and Trove dependencies for licensing issue.
 
 Basic usage for released version
 ================================
